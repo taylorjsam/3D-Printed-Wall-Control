@@ -38,14 +38,15 @@ Each tool holder is generally named for the tool it fits, such as:
 	•	Vessel Megadora 6pc
 	•	Caliper Holder (generic)
 	•	Wera Hex Plus Allen Set
+	•	Knipex 250mm Pliers Wrench
+
 
 Some holders are generic and multipurpose (e.g., caliper or utility hangers), while others are precision-contoured for exact fits based on STL scans or manual measurements.
 
 ⸻
 
 🖨️ Print Recommendations
-	•	Primary Material: PETG
-	•	Alternatives: PLA+ or ABS
+	•	Primary Material: PETG (Alternatives: PLA+ or ABS)
 	•	Nozzle: 0.4 mm
 	•	Layer Height: 0.2 mm
 	•	Infill: 25%
@@ -64,6 +65,7 @@ Some holders are generic and multipurpose (e.g., caliper or utility hangers), wh
 	For Metal WC Hook versions:
 	•	Simply press the Wall Control metal hook into the back cavity until fully seated.
 	•	Hook is removable but holders are designed to allow installation onto the wall without removal
+	Note about warping: On some printers or with certain materials, the longer pieces may be prone to warping. To address this, I’ve included hook mounts both near the center and near the edges. Only two hooks are recommended for these pieces with 4 placement options. If no warping is present, I recommend using the outer mounts as they provide slightly stronger support. However, if any warping is observed, use the inner mounts instead. Attempting to use the outer mounts with a warped piece may shear off the hooks, as they cannot be inserted straight when the part is bent.
 
 ⸻
 
